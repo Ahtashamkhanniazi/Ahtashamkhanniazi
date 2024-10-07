@@ -34,7 +34,7 @@ In addition to my full-stack expertise, I have a deep understanding of **blockch
 #### 🖥️ Desktop Application Development
 - **Electron.js**: Developed cross-platform desktop applications using **Electron.js**. Successfully built a **desktop VPN application** that enhances security, integrating browser extensions to improve user experience.
   
-#### 🛠️ DevOps and Development Tools
+#### 🛠️ Development Tools
 - **Version Control**: Skilled in using **Git** and **GitHub** for version control, collaboration, and managing project history.
 - **Prototyping and UI Design**: Proficient in using **Figma** and **Adobe XD** to prototype and design user interfaces, focusing on creating intuitive and engaging experiences.
 - **API Testing**: Experienced in using **Postman** for API development, testing, and debugging to ensure seamless server-side integration.
