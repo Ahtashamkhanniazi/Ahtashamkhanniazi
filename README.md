@@ -3,15 +3,6 @@
 
 ### MERN Stack Developer | Blockchain Enthusiast | Lahore, Pakistan
 
-**Contact**:  
-📞 +923064194217  
-📧 [niaziahtasham98@gmail.com](mailto:niaziahtasham98@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ahtasham-khan-niazi/)
-
----
-
-## 🛠️ About Me
-
 I am a highly skilled **MERN Stack Developer** with extensive experience in building responsive, efficient, and secure web applications using modern technologies like **Next.js**, **Material-UI**, and **MongoDB**. My work is focused on delivering high-quality, scalable solutions in a collaborative environment. I excel in implementing secure authentication, form validations, RESTful API development, and optimizing database models.
 
 In addition to my full-stack expertise, I have a deep understanding of **blockchain integration**. I have worked with **Ethers.js**, **Web3.js**, **Web3modal**, and **Wagmi** to create secure and seamless blockchain-based solutions for decentralized applications.
